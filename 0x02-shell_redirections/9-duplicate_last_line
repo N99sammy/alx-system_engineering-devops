@@ -1,0 +1,2 @@
+#!/binlbash
+tail -1 iacta > iacta
